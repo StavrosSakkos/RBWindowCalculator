@@ -8,10 +8,13 @@ B = ["Antaras","Baium","Queen Ant",]
 C = ["Core","Orfen","Zaken"]
 D = ["Blinding Fire Barakiel"]
 ignoreList = ["Warden Guillotine","Heart Of Volcano","Carnage Lord Gato"\
-	,"Ancient Weird Drake","Greyclaw Kutus","Carnage Lord Gato"]
+	,"Ancient Weird Drake","Greyclaw Kutus","Carnage Lord Gato","Heart Of Warding"\
+	,"Antharas Epic Controller", "Baium Epic Controller", "Core Epic Controller"\
+	,"Orfen Epic Controller", "Qa Epic Controller", "Valakas Epic Controller"\
+	,"Zaken Epic Controller"]
 E = ["Golkonda Longhorn","Domb Death Cabrio","Hallate The Death Lord","Kernon"]
 F = ["It Bloody Tree Vermilion","It Cherub Garacsia","It Ketra Chief Brakki","It Last Lesser Glaki"\
-	,"It Shuriel Fire Of Wrath","It Varka Commnder Mos","It Varka Hero Shadith"]
+	,"It Shuriel Fire Of Wrath","It Varka Commnder Mos","It Varka Hero Shadith","Korim"]
 
 #SITE = ""
 OFFSET = 30
